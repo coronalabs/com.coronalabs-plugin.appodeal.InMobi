@@ -3,8 +3,8 @@ local metadata =
 	plugin =
 	{
 		format = 'staticLibrary',
-		staticLibs = { 'APDInMobiAdapter', },
-		frameworks = { 'InMobiSDK', },
+		staticLibs = { },
+		frameworks = { },
 		frameworksOptional = {},
 	},
 }
